@@ -23,7 +23,7 @@ Skills demonstrated:
 - Log analysis
 - Security investigation
 
-File:SQL_Filters_Security_Investigation_Jeffrey_Generelli.pdf
+
 
 
 More projects coming soon.
